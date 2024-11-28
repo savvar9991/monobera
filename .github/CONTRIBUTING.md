@@ -3,7 +3,7 @@
 #### **Did you find a bug?**
 
 * **Do not open up a GitHub issue if the bug is a security vulnerability
-  in Monobera**, and instead reach out our mods on our Discord server.
+  in Monobera**, and instead reach out to our mods on our Discord server.
 
 * **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/berachain/monobera/issues).
 
@@ -17,7 +17,7 @@
 
 #### **Did you fix whitespace, format code, or make a purely cosmetic patch?**
 
-Changes that are cosmetic in nature and do not add anything substantial to the stability, functionality, or testability of this repo will generally not be accepted (we totally agree with the reasons outline in this [Ruby on Rails pull request](https://github.com/rails/rails/pull/13771#issuecomment-32746700)).
+Changes that are cosmetic in nature and do not add anything substantial to the stability, functionality, or testability of this repo will generally not be accepted (we totally agree with the reasons outlined in this [Ruby on Rails pull request](https://github.com/rails/rails/pull/13771#issuecomment-32746700)).
 
 <!-- #### **Do you intend to add a new feature or change an existing one?**
 
